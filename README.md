@@ -105,6 +105,20 @@ I will recommend you make a pull request to your own repo which is very very saf
 Keep in mind that the repo has hacktoberfest topic.
 '''
 ```
+## 4. Here are some useful link from which you can get a clear vision.
+
+'''py
+'''
+https://youtu.be/8lGpZkjnkt4?feature=shared
+
+https://youtu.be/OVQK2zzb6U8?feature=shared
+
+https://youtu.be/rgbCcBNZcdQ?feature=shared
+
+'''
+'''
+
+
 
 ## + Follow Me : } Quick Approval of Pull Request
 
